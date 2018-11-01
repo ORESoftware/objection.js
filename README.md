@@ -1,3 +1,13 @@
+re:
+
+@ORESoftware what are using with TypeScript?
+I rewrote my project using TypeScript and man, sequelize now became unusable because it feels like I'm fighting with compiler to just compile my code.
+I know about TypeORM but I'm not sure at this point, I really like sequelize but lack of real TypeScript supports makes me start to look for replacement because declaring models, fields and class/instance methods is out of this world.
+
+TRY THIS:
+https://github.com/typeorm/typeorm
+
+
 [![Build Status](https://travis-ci.org/Vincit/objection.js.svg?branch=master)](https://travis-ci.org/Vincit/objection.js) [![Coverage Status](https://coveralls.io/repos/github/Vincit/objection.js/badge.svg?branch=master)](https://coveralls.io/github/Vincit/objection.js?branch=master) [![Join the chat at https://gitter.im/Vincit/objection.js](https://badges.gitter.im/Vincit/objection.js.svg)](https://gitter.im/Vincit/objection.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # [Objection.js](https://vincit.github.io/objection.js)
